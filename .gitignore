@@ -76,6 +76,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+"game_predict.ipynb".ipunb
 
 # IPython
 profile_default/
